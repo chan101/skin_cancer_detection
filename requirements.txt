@@ -1,0 +1,9 @@
+numpy==1.18.5
+matplotlib==3.3.3
+keras==2.4.3
+tensorflow==2.3.0
+flask==2.0.0
+protobuf==3.19.4
+efficientnet==1.1.0
+scikit-learn
+werkzeug==2.0.0
